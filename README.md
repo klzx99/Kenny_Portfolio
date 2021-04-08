@@ -2,7 +2,6 @@
 My Data Science Project Portfolio
 
 # Project 1
-sdflksjdlfjsldjflsdjf
-sdlfjsdjflsdjfljsld
-sdjflsjdflkjsdlkfj
+Algorithmic Trading with Python
+This is just testing
 
